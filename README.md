@@ -8,7 +8,7 @@ _______________
 - 🎓 Estudante de Sistemas de Informação
 - 👨‍💻 Explorando php, html, css, javascript, e front e back end
 - 👾 Gosto de aprender sobre o Back end
-- 💬 tecnologia, programação, motos esportivas, rock/metal, cultura pop, jogos
+- ⚡ Fun fact: Consigo montar PC do zero em menos de 1 hora
 _______________
 # 📧 Contato 
 - cybermx370@gmail.com

@@ -6,7 +6,7 @@ _______________
 # 🐙Sobre mim <img src="https://github.com/user-attachments/assets/0bcc59d0-d8be-47a9-8fea-bb44f77432dd" alt="5IPe" width="50px" />
 
 - 🎓 Estudante de Sistemas de Informação
-- 👨‍💻 Explorando php, html, css, javascript, e front e back end
+- 👨‍💻 Explorando php, html, css, javascript, front e back end
 - 👾 Gosto de aprender sobre o Back end
 - ⚡ Fun fact: Consigo montar PC do zero em menos de 1 hora
 _______________
